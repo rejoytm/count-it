@@ -10,9 +10,9 @@
 
 ![Invoices page](https://res.cloudinary.com/dnwasepdv/image/upload/w_1920/v1741931861/git/count-it/invoices_nvnyeq.png)
 
-![Product Insights page](https://res.cloudinary.com/dnwasepdv/image/upload/w_1920/v1741932176/git/count-it/activity_report_zyaz5g.png)
+![Customers page](https://res.cloudinary.com/dnwasepdv/image/upload/v1741936517/git/count-it/customers_bikkvv.png)
 
-![Customer Insights page](https://res.cloudinary.com/dnwasepdv/image/upload/w_1920/v1741932357/git/count-it/customer_insights_qeltik.png)
+![Activity Report page](https://res.cloudinary.com/dnwasepdv/image/upload/w_1920/v1741936839/git/count-it/activity_report_hikugb.png)
 
 
 ## Features
