@@ -18,7 +18,7 @@
 ## Features
 
 - 🌍 Fully responsive design
-- 🌞 Light/dark mode support
+- 🌗 Light/dark mode support
 - 🔑 Role-based access control
 - 📑 Generate customer statements and activity reports
 - 🖨️ Print reports and invoices directly from the interface
