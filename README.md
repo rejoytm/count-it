@@ -29,25 +29,25 @@
 Clone the project
 
 ```bash
-  git clone https://github.com/rejoytm/count-it
+git clone https://github.com/rejoytm/count-it
 ```
 
 Go to the project directory
 
 ```bash
-  cd count-it
+cd count-it
 ```
 
 Install dependencies
 
 ```bash
-  npm install
+npm install
 ```
 
 Start the server
 
 ```bash
-  npm run start
+npm run start
 ```
 
 
